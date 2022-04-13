@@ -1,0 +1,92 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/florencenjeri/Desktop/TipCalculator/lib/tip_calculator.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          3,
+          3,
+          0,
+          null,
+          null,
+          3,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/florencenjeri/Desktop/TipCalculator/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/florencenjeri/Desktop/TipCalculator/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/florencenjeri/Desktop/TipCalculator/app/controllers/application_controller.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/florencenjeri/Desktop/TipCalculator/app/helpers/application_helper.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/florencenjeri/Desktop/TipCalculator/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/florencenjeri/Desktop/TipCalculator/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/florencenjeri/Desktop/TipCalculator/app/models/application_record.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1649880895
+  }
+}
