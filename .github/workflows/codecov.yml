@@ -3,7 +3,7 @@ env:
   POSTGRES_USER: postgres
   POSTGRES_PASSWORD: postgres
   POSTGRES_DB: tip_calculator_test
-  CODECOV_TOKEN: 61ca431d-ce41-4731-8e45-78650643862f
+  CODECOV_TOKEN: 88bfa351-5690-4951-bb08-ca48aa5e8f66
 
 name: Run Rspec Unit Tests
 
